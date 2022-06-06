@@ -16,7 +16,7 @@
 * VS Code
 
 ### Code example:
-* function multiply(a, b){return a * b}
+`function multiply(a, b){return a * b}`
 
 ### Education:
 * BIP — UNIVERSITY OF LAW/International law
